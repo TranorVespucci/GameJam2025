@@ -6,7 +6,7 @@ if (amountofbubbles == 0)
 {
 	switch (room)
 	{
-		case Room1:
+		case rm_level1:
 		if (!instance_exists(obj_next_level))
 		{
 			instance_create_layer(room_width/2, room_height/2, "Instances", obj_next_level);
@@ -15,7 +15,7 @@ if (amountofbubbles == 0)
 		// Das soll nur einmal spielen looped aber weil das if statement weiterhin true ist und dann einfach mehrfach hintereinander feuert 
 		break;
 		// hier sollte es aufhören, sobald es das einmal gemacht hat, tut es aber leider nicht
-		case Room2:
+		case rm_level2:
 		game_end();
 		break;
 	}
