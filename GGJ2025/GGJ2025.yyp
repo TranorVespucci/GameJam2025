@@ -42,7 +42,7 @@
     {"id":{"name":"snd_bubblepop","path":"sounds/snd_bubblepop/snd_bubblepop.yy",},},
     {"id":{"name":"snd_levelcomplete","path":"sounds/snd_levelcomplete/snd_levelcomplete.yy",},},
     {"id":{"name":"snd_maintheme","path":"sounds/snd_maintheme/snd_maintheme.yy",},},
-    {"id":{"name":"Ui_Interactionsnd_uibutton","path":"sounds/Ui_Interactionsnd_uibutton/Ui_Interactionsnd_uibutton.yy",},},
+    {"id":{"name":"snd_UIinteraction","path":"sounds/snd_UIinteraction/snd_UIinteraction.yy",},},
     {"id":{"name":"spr_background_demo","path":"sprites/spr_background_demo/spr_background_demo.yy",},},
     {"id":{"name":"spr_bubble_demo","path":"sprites/spr_bubble_demo/spr_bubble_demo.yy",},},
     {"id":{"name":"spr_Button_next_level","path":"sprites/spr_Button_next_level/spr_Button_next_level.yy",},},
