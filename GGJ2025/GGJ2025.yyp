@@ -95,7 +95,11 @@
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_main_menu_Dupe_1","path":"rooms/rm_main_menu_Dupe_1/rm_main_menu_Dupe_1.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"rem_levl3","path":"rooms/rem_levl3/rem_levl3.yy",},},
+=======
+    {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
+>>>>>>> Stashed changes
 =======
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
 >>>>>>> Stashed changes
