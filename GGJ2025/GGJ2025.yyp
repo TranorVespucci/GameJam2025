@@ -40,6 +40,7 @@
     {"id":{"name":"obj_button_levels","path":"objects/obj_button_levels/obj_button_levels.yy",},},
     {"id":{"name":"obj_button_options","path":"objects/obj_button_options/obj_button_options.yy",},},
     {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
+    {"id":{"name":"obj_gamemode_menu","path":"objects/obj_gamemode_menu/obj_gamemode_menu.yy",},},
     {"id":{"name":"obj_gamemode","path":"objects/obj_gamemode/obj_gamemode.yy",},},
     {"id":{"name":"obj_next_level","path":"objects/obj_next_level/obj_next_level.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
