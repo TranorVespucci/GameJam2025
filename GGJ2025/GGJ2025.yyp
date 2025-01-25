@@ -53,6 +53,7 @@
     {"id":{"name":"spr_background_demo","path":"sprites/spr_background_demo/spr_background_demo.yy",},},
     {"id":{"name":"spr_bubble_demo","path":"sprites/spr_bubble_demo/spr_bubble_demo.yy",},},
     {"id":{"name":"spr_Button_next_level","path":"sprites/spr_Button_next_level/spr_Button_next_level.yy",},},
+    {"id":{"name":"spr_Menu_mockup_levels","path":"sprites/spr_Menu_mockup_levels/spr_Menu_mockup_levels.yy",},},
     {"id":{"name":"spr_Menu_mockup","path":"sprites/spr_Menu_mockup/spr_Menu_mockup.yy",},},
     {"id":{"name":"spr_UI_Backround","path":"sprites/spr_UI_Backround/spr_UI_Backround.yy",},},
     {"id":{"name":"spr_UI_Rectangle_Mockup","path":"sprites/spr_UI_Rectangle_Mockup/spr_UI_Rectangle_Mockup.yy",},},
