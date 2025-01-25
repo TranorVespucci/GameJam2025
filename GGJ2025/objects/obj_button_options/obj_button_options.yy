@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Button_next_level",
-    "path":"sprites/spr_Button_next_level/spr_Button_next_level.yy",
+    "name":"spr_UI_Options",
+    "path":"sprites/spr_UI_Options/spr_UI_Options.yy",
   },
   "spriteMaskId":null,
   "visible":true,
