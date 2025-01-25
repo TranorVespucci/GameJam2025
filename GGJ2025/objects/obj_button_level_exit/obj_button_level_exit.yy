@@ -1,14 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_next_level",
+  "%Name":"obj_button_level_exit",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_next_level",
+  "name":"obj_button_level_exit",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Button_next_level",
-    "path":"sprites/spr_Button_next_level/spr_Button_next_level.yy",
+    "name":"spr_UI_Exit_2",
+    "path":"sprites/spr_UI_Exit_2/spr_UI_Exit_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
