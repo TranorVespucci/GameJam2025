@@ -4,17 +4,17 @@ alarm[0] = 15;
 
 if (amountofbubbles == 0)
 {
-	
 	switch (room)
 	{
 		case Room1:
-		instance_create_layer(room_width/2, room_height/2, "Instances", obj_next_level);
-		audio_stop_sound(snd_maintheme);
-		//audio_play_sound(snd_levelcomplete, 0, false);
+		if (!instance_exists(obj_next_level))
+		{
+			instance_create_layer(room_width/2, room_height/2, "Instances", obj_next_level);
+			audio_stop_sound(snd_maintheme);	
+		}
 		// Das soll nur einmal spielen looped aber weil das if statement weiterhin true ist und dann einfach mehrfach hintereinander feuert 
 		break;
 		// hier sollte es aufhören, sobald es das einmal gemacht hat, tut es aber leider nicht
-		
 		case Room2:
 		game_end();
 		break;
