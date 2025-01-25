@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":159,
   "bbox_left":1,
-  "bbox_right":319,
+  "bbox_right":159,
   "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0447897f-09a9-448f-b971-5ded97d625d5","name":"0447897f-09a9-448f-b971-5ded97d625d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"43452938-8ca2-42f3-b0e8-a39ac3393101","name":"43452938-8ca2-42f3-b0e8-a39ac3393101","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":160,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ef7a1e0b-c1d9-4b80-adbe-42a32e89e9be","blendMode":0,"displayName":"default","isLocked":false,"name":"ef7a1e0b-c1d9-4b80-adbe-42a32e89e9be","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4a69ee50-27c0-4b73-91ca-c90383ce8912","blendMode":0,"displayName":"default","isLocked":false,"name":"4a69ee50-27c0-4b73-91ca-c90383ce8912","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_UI_Rectangle_Mockup",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0447897f-09a9-448f-b971-5ded97d625d5","path":"sprites/spr_UI_Rectangle_Mockup/spr_UI_Rectangle_Mockup.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0772be3e-8ace-48fb-bcd3-ee99bc0fac0f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"43452938-8ca2-42f3-b0e8-a39ac3393101","path":"sprites/spr_UI_Rectangle_Mockup/spr_UI_Rectangle_Mockup.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f33fc3ec-a40b-4f45-9ee3-b9acf058dda1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":320,
+  "width":160,
 }
