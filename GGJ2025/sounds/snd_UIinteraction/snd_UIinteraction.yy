@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Ui_Interactionsnd_uibutton",
+  "%Name":"snd_UIinteraction",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":0.276757,
-  "name":"Ui_Interactionsnd_uibutton",
+  "name":"snd_UIinteraction",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Ui_Interactionsnd_uibutton.wav",
+  "soundFile":"snd_UIinteraction.wav",
   "type":0,
   "volume":1.0,
 }
