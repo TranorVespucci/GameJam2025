@@ -30,6 +30,22 @@ if (amountofbubbles == 0)
 			case rm_level3:
 		if (!instance_exists(obj_button_level_exit))
 		{
+			instance_create_layer(room_width/2, room_height/2, "Instances", obj_button_level_4);
+			audio_stop_sound(snd_maintheme);
+			audio_play_sound(snd_levelcomplete, 10, false);
+		
+		}
+			case rm_level4:
+		{
+			instance_create_layer(room_width/2, room_height/2, "Instances", obj_button_level_5);
+			audio_stop_sound(snd_maintheme);
+			audio_play_sound(snd_levelcomplete, 10, false);
+		
+		}
+		break;
+		
+			case rm_level5:
+		{
 			instance_create_layer(room_width/2, room_height/2, "Instances", obj_button_level_exit);
 			audio_stop_sound(snd_maintheme);
 			audio_play_sound(snd_levelcomplete, 10, false);
