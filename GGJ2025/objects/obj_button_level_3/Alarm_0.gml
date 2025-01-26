@@ -1,3 +1,3 @@
 image_index = 0;
 
-//room_goto(rm_level2);
+room_goto(rm_level3);
