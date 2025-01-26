@@ -30,6 +30,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"instance_name","filters":[],"listItems":[],"multiselect":false,"name":"instance_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Obj_fish","path":"objects/Obj_fish/Obj_fish.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Obj_fish","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"position","filters":[],"listItems":[],"multiselect":false,"name":"position","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
