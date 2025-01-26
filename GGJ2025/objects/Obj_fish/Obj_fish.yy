@@ -1,14 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bubble",
+  "%Name":"Obj_fish",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_bubble",
+  "name":"Obj_fish",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,14 +28,14 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"instance_name","filters":[],"listItems":[],"multiselect":false,"name":"instance_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Obj_fish","path":"objects/Obj_fish/Obj_fish.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Obj_fish","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"position_left","filters":[],"listItems":[],"multiselect":false,"name":"position_left","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bubble",
-    "path":"sprites/spr_bubble/spr_bubble.yy",
+    "name":"spr_Goldfish_Left",
+    "path":"sprites/spr_Goldfish_Left/spr_Goldfish_Left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
